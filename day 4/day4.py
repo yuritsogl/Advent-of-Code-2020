@@ -1,4 +1,3 @@
-import os
 import re
 
 
@@ -30,9 +29,6 @@ def strictValidation(passport: dict, conditions: dict) -> bool:
             return False
     return True
 
-
-path = "D:\\Adventofcode\\2020\\4"
-os.chdir(path)
 
 # day 4 part1 - solution
 result = 0

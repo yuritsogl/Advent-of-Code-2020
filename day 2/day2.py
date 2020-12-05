@@ -1,6 +1,3 @@
-import os
-
-
 # day 2 part1 - solution
 def checkPassword_old(min_let: int, max_let: int, let: str,
                       password: str) -> int:
@@ -23,10 +20,7 @@ def checkPassword_new(first_pos: int, second_pos: int, let: str,
     else:
         return 1
 
-
-path = "D:\\Adventofcode\\2020\\2"
-os.chdir(path)
-
+      
 i = 0
 dt = []
 result_1 = 0

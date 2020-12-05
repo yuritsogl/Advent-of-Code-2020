@@ -1,4 +1,3 @@
-import os
 import math
 
 
@@ -23,9 +22,6 @@ def goSlope(data: list, slope_cord: list) -> int:
         j += right
     return sum_trees
 
-
-path = "D:\\Adventofcode\\2020\\3"
-os.chdir(path)
 
 # day 3 part1 - solution
 slope_cord = [1, 3]

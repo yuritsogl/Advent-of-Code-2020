@@ -15,7 +15,4 @@
 <p>Using the above example again, the three entries that sum to <code>2020</code> are <code>979</code>, <code>366</code>, and <code>675</code>. Multiplying them together produces the answer, <code><em>241861950</em></code>.</p>
 <p>In your expense report, <em>what is the product of the three entries that sum to <code>2020</code>?</em></p>
 </article>
-<p>Your puzzle answer was <code>281473080</code>.</p><p class="day-success">Both parts of this puzzle are complete! They provide two gold stars: **</p>
-<p>At this point, you should <a href="/2020">return to your Advent calendar</a> and try another puzzle.</p>
-<p>If you still want to see it, you can <a href="1/input" target="_blank">get your puzzle input</a>.</p>
-<p>You can also <span class="share">[Share<span class="share-content">on
+<p>Your puzzle answer was <code>281473080</code>.</p><p class="day-success">
